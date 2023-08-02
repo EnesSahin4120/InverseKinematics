@@ -1,0 +1,6 @@
+﻿  Line.cpp
+  IKController.cpp
+c:\users\enes\documents\visual studio 2015\projects\inversekinematics\inversekinematics\ikcontroller.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  InverseKinematics.vcxproj -> C:\Users\Enes\documents\visual studio 2015\Projects\InverseKinematics\Debug\InverseKinematics.exe
+  InverseKinematics.vcxproj -> C:\Users\Enes\documents\visual studio 2015\Projects\InverseKinematics\Debug\InverseKinematics.pdb (Full PDB)
